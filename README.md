@@ -19,4 +19,5 @@ cross-platform command-line util for normalizing path, might be useful in comman
 in case of empty input it normilize current working directory path:
 
 D:\\docs\\Google Диск\\docs\\foto>**normalize-path**
+
 "D:\\docs\\Google Диск\\docs\\foto"
